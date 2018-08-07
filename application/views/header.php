@@ -5,22 +5,15 @@
                 <img class="bg_Size" alt="" src="<?php echo base_url('assets/');?>img/logo/Logo_PPP.png">
             </a>
         </div>
-        <div class="header-search floatright">
-            <div id="search" class="search-top floatleft">
-                <input class="form-control input-lg" placeholder="Search" value="" name="search" type="text">
-                <span class="search">
-                                <i class="fa fa-search"></i>
-                            </span>
-            </div>
-            <div class="header-button floatright">
-                <a href="donate.html">Donate Now</a>
-            </div>
-        </div>
+<!--        <div class="header-search floatright">-->
+<!--            <div class="header-button floatright">-->
+<!--            </div>-->
+<!--        </div>-->
         <div class="main-menu floatright">
             <nav>
                 <ul>
                     <li><a class="menu-icon" href="<?php echo base_url();?>">Beranda</a></li>
-                    <li><a href="<?php echo base_url('Profile');?>">Profil</a></li>
+                    <li><a href="<?php echo base_url('Profile');?>">Profile</a></li>
                     <li><a href="<?php echo base_url('Berita');?>">Berita</a></li>
                     <li><a href="<?php echo base_url('Kegiatan');?>">Kegiatan</a></li>
                  </ul>
