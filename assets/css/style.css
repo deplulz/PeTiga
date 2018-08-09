@@ -50,6 +50,9 @@ html,
 body {
     height: 100%;
 }
+.commentContent {
+    width:80%;
+}
 .floatleft {
     float: left
 }

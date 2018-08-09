@@ -264,6 +264,14 @@
         loop: true,
     });
 
+    //ValidasiPageDetail
+    // (window.onload=function () {
+    //     var elem = document.getElementById("elem");
+    //     if (window.location.pathname = "/Berita_Detail")
+    //     {
+    //         elem.style.width = "13%";
+    //     }
+    // });
 
 
 

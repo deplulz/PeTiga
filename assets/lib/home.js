@@ -20,7 +20,7 @@
     $('#ensign-nivoslider-2').nivoSlider({
 				effect: 'random',
 				slices: 15,
-				boxCols: 8,
+				boxCols: 5,
 				boxRows: 4,
 				animSpeed: 500,
 				pauseTime: 5000,
