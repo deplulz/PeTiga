@@ -52,6 +52,7 @@ body {
 }
 .commentContent {
     width:80%;
+    left: 1%;
 }
 .floatleft {
     float: left
@@ -3946,6 +3947,7 @@ h3.details-three {
 .blog-two-details-area {
     clear: both;
     position: relative;
+    padding-top: 3%;
 }
 p.blog-paragraph {
     margin-bottom: 0;
