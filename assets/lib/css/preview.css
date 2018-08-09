@@ -121,10 +121,10 @@ preview-1
 preview-2
 ---------------------------------------- */
 .preview-2 .nivoSlider:hover .nivo-directionNav a.nivo-prevNav {
-  left: 15px;
+  left: 225px;
 }
 .preview-2 .nivoSlider:hover .nivo-directionNav a.nivo-nextNav{
-  right: 78px;
+  right: 290px;
 }
 .preview-2 .nivoSlider .nivo-directionNav a.nivo-prevNav {
   left: -34px;

@@ -1328,6 +1328,7 @@ span.published2 i {
 }
 .visual-inner {
     padding-top: 20px;
+    text-align: justify;
 }
 .campaign-two .visual-inner {
     border: 1px solid #ddd;
