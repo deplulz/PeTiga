@@ -11,22 +11,6 @@
     <!--            </div>-->
     <!--        </div>-->
     <!--    </div>-->
-    <div class="col-md-6 text-center">
-        <div class="subscribe">
-            <div class="subscribe-text">
-                <h3>SUBSCRIBE</h3>
-            </div>
-            <div class="subscribe-input">
-                <form id="mc-form" class="mc-form">
-                    <input id="mc-email" autocomplete="off" placeholder="Enter your Email here" name="EMAIL" type="email">
-                    <button class="submit" type="submit">
-                        subscribe
-                        <i class="fa fa-paper-plane" aria-hidden="true"></i>
-                    </button>
-                </form>
-            </div>
-        </div>
-    </div>
 </section>
 <footer id="footer" class="social-area">
     <div class="footer-middle ptb-80">

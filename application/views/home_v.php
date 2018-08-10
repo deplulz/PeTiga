@@ -2,7 +2,7 @@
     <div class="main-slider home-2 an-si">
         <div class="bend niceties preview-2">
             <div class="slides">
-                <img src="<?php echo base_url('assets/')?>img/slider/2.jpg" alt="" title="#slider-direction-1"  />
+                <img src="<?php echo base_url('assets/')?>img/slider/banner2.jpg" alt="" title="#slider-direction-1"  />
             </div>
             <!-- direction 1 -->
 
@@ -68,7 +68,7 @@
                     <div class="col-md-4 col-sm-4">
                         <div class="blog-container-inner">
                             <div class="post-thumb">
-                                <a href="#"><img class="attachment-blog-list" src="<?php echo base_url('assets/')?>img/blog/1.jpg" alt=""></a>
+                                <a href="#"><img class="attachment-blog-list" src="<?php echo base_url('assets/')?>img/blog/berita1.jpg" alt=""></a>
                             </div>
                             <div class="visual-inner">
                                 <div class="home-2-blog">
@@ -91,7 +91,7 @@
                     <div class="col-md-4 col-sm-4">
                         <div class="blog-container-inner res-1">
                             <div class="post-thumb">
-                                <a href="#"><img class="attachment-blog-list" src="<?php echo base_url('assets/')?>img/blog/2.jpg" alt=""></a>
+                                <a href="#"><img class="attachment-blog-list" src="<?php echo base_url('assets/')?>img/blog/berita1.jpg" alt=""></a>
                             </div>
                             <div class="visual-inner">
                                 <div class="home-2-blog">
@@ -114,7 +114,7 @@
                     <div class="col-md-4 col-sm-4">
                         <div class="blog-container-inner">
                             <div class="post-thumb">
-                                <a href="#"><img class="attachment-blog-list" src="<?php echo base_url('assets/')?>img/blog/4.jpg" alt=""></a>
+                                <a href="#"><img class="attachment-blog-list" src="<?php echo base_url('assets/')?>img/gallery/mbuh2.jpg" alt=""></a>
                             </div>
                             <div class="visual-inner">
                                 <div class="home-2-blog">
@@ -161,42 +161,42 @@
                 <img src="<?php echo base_url('assets/')?>img/gallery/1.jpg" alt="" />
                 <div class="gallery-title">
                     <h3>political gallery</h3>
-                    <a class="venobox" href="img/gallery/1.jpg" data-gall="myGallery">view image</a>
+                    <a class="venobox" href="<?php echo base_url('assets/');?>img/gallery/1.jpg" data-gall="myGallery">view image</a>
                 </div>
             </div>
             <div class="gallery hover-style col-md-4 col-sm-4 col-xs-12 grid-item cat2 cat3">
                 <img src="<?php echo base_url('assets/')?>img/gallery/2.jpg" alt="" />
                 <div class="gallery-title">
                     <h3>political gallery</h3>
-                    <a class="venobox" href="img/gallery/2.jpg" data-gall="myGallery">view image</a>
+                    <a class="venobox" href=""<?php echo base_url('assets/');?>img/gallery/2.jpg" data-gall="myGallery">view image</a>
                 </div>
             </div>
             <div class="gallery hover-style col-md-4 col-sm-4 col-xs-12 grid-item cat1">
                 <img src="<?php echo base_url('assets/')?>img/gallery/3.jpg" alt="" />
                 <div class="gallery-title">
                     <h3>political gallery</h3>
-                    <a class="venobox" href="img/gallery/3.jpg" data-gall="myGallery">view image</a>
+                    <a class="venobox" href=""<?php echo base_url('assets/');?>img/gallery/3.jpg" data-gall="myGallery">view image</a>
                 </div>
             </div>
             <div class="gallery hover-style col-md-4 col-sm-4 col-xs-12 grid-item cat2">
                 <img src="<?php echo base_url('assets/')?>img/gallery/4.jpg" alt="" />
                 <div class="gallery-title">
                     <h3>political gallery</h3>
-                    <a class="venobox" href="img/gallery/4.jpg" data-gall="myGallery">view image</a>
+                    <a class="venobox" href=""<?php echo base_url('assets/');?>img/gallery/4.jpg" data-gall="myGallery">view image</a>
                 </div>
             </div>
             <div class="gallery hover-style col-md-4 col-sm-4 col-xs-12 grid-item cat1">
                 <img src="<?php echo base_url('assets/')?>img/gallery/5.jpg" alt="" />
                 <div class="gallery-title">
                     <h3>political gallery</h3>
-                    <a class="venobox" href="img/gallery/5.jpg" data-gall="myGallery">view image</a>
+                    <a class="venobox" href=""<?php echo base_url('assets/');?>img/gallery/5.jpg" data-gall="myGallery">view image</a>
                 </div>
             </div>
             <div class="gallery hover-style col-md-4 col-sm-4 col-xs-12 grid-item cat1">
                 <img src="<?php echo base_url('assets/')?>img/gallery/1.jpg" alt="" />
                 <div class="gallery-title">
                     <h3>TITLE GOES HERE</h3>
-                    <a class="venobox" href="img/gallery/1.jpg" data-gall="myGallery">view image</a>
+                    <a class="venobox" href=""<?php echo base_url('assets/');?>img/gallery/1.jpg" data-gall="myGallery">view image</a>
                 </div>
             </div>
         </div>

@@ -84,9 +84,7 @@
 ============================================ -->
 <!--<script src="--><?php //echo base_url('assets/');?><!--lib/js/jquery.nivo.slider.js" type="text/javascript"></script>-->
 <!--<script src="--><?php //echo base_url('assets/');?><!--lib/home.js" type="text/javascript"></script>-->
-<!-- Slide JS
-============================================ -->
-<script src="<?php echo base_url('assets/');?>js/jquery.dev.slider.new.js"></script>
+
 <!-- plugins JS
 ============================================ -->
 <script src="<?php echo base_url('assets/');?>js/plugins.js"></script>

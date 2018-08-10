@@ -53,3 +53,7 @@
     <!-- The dots/circles -->
 
 </div>
+
+<!-- Slide JS
+============================================ -->
+<script src="<?php echo base_url('assets/');?>js/jquery.dev.slider.new.js"></script>
