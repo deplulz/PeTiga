@@ -17,7 +17,7 @@
     </div>
 
     <div class="col-md-12 BPPos">
-        <div class="slideshqow-container">
+        <div class="slideshow-container">
 
             <!-- Full-width images with number and caption text -->
             <div class="mySlides fade">

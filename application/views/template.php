@@ -51,7 +51,9 @@
     <!-- responsive CSS
     ============================================ -->
     <link rel="stylesheet" href="<?php echo base_url('assets/');?>css/responsive.css">
-
+    <!-- sliderNewStyle
+    ============================================ -->
+    <link rel="stylesheet" href="<?php echo base_url('assets/');?>css/SliderNew.css">
     <!-- modernizr JS
     ============================================ -->
     <script src="<?php echo base_url('assets/');?>js/vendor/modernizr-2.8.3.min.js"></script>
@@ -80,8 +82,11 @@
 <script src="<?php echo base_url('assets/');?>js/wow.min.js"></script>
 <!-- Nivo slider js
 ============================================ -->
-<script src="<?php echo base_url('assets/');?>lib/js/jquery.nivo.slider.js" type="text/javascript"></script>
-<script src="<?php echo base_url('assets/');?>lib/home.js" type="text/javascript"></script>
+<!--<script src="--><?php //echo base_url('assets/');?><!--lib/js/jquery.nivo.slider.js" type="text/javascript"></script>-->
+<!--<script src="--><?php //echo base_url('assets/');?><!--lib/home.js" type="text/javascript"></script>-->
+<!-- Slide JS
+============================================ -->
+<script src="<?php echo base_url('assets/');?>js/jquery.dev.slider.new.js"></script>
 <!-- plugins JS
 ============================================ -->
 <script src="<?php echo base_url('assets/');?>js/plugins.js"></script>
