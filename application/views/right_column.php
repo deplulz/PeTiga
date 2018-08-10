@@ -6,7 +6,7 @@
         <div class="categori-list1">
             <div class="categori-list-one">
                 <div class="categori-list-img">
-                    <a href="#"><img src="<?php echo base_url('assets/');?>img/event/5n.jpg" alt=""></a>
+                    <a href="#"><img src="<?php echo base_url('assets/');?>img/event/mbuh.jpg" alt=""></a>
                 </div>
                 <div class="post-details">
                     <h3><a href="#">Boluptatem quia Ami </a></h3>
@@ -15,7 +15,7 @@
             </div>
             <div class="categori-list-one">
                 <div class="categori-list-img">
-                    <a href="#"><img src="<?php echo base_url('assets/');?>img/event/6n.jpg" alt=""></a>
+                    <a href="#"><img src="<?php echo base_url('assets/');?>img/event/mbuh1.jpg" alt=""></a>
                 </div>
                 <div class="post-details">
                     <h3><a href="#">Ami Tomari preomi </a></h3>
@@ -24,7 +24,7 @@
             </div>
             <div class="categori-list-one">
                 <div class="categori-list-img">
-                    <a href="#"><img src="<?php echo base_url('assets/');?>img/event/7n.jpg" alt=""></a>
+                    <a href="#"><img src="<?php echo base_url('assets/');?>img/event/mbuh2.jpg" alt=""></a>
                 </div>
                 <div class="post-details">
                     <h3><a href="#">Ami Tomari preomi </a></h3>
@@ -33,7 +33,7 @@
             </div>
             <div class="categori-list-one mrg-nn">
                 <div class="categori-list-img">
-                    <a href="#"><img src="<?php echo base_url('assets/');?>img/event/8n.jpg" alt=""></a>
+                    <a href="#"><img src="<?php echo base_url('assets/');?>img/event/mbuh3.jpg" alt=""></a>
                 </div>
                 <div class="post-details">
                     <h3><a href="#">Nemo enim ipsam</a></h3>

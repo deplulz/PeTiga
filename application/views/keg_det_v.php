@@ -1,4 +1,5 @@
-<section class="breadcrumbs-area ptb-140 about-bg">
+<section class="breadcrumbs-area ptb-140 about-bg"
+    style="background: rgba(0, 0, 0, 0) url('<?php echo base_url('assets/'); ?>img/bg-img/banner3.jpg') no-repeat scroll center bottom / cover;">
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">

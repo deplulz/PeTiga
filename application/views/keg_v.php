@@ -1,9 +1,10 @@
-<section class="breadcrumbs-area ptb-140 about-bg" style="background: rgba(0, 0, 0, 0) url('<?php echo base_url('assets/');?>img/bg-img/bg7.jpg') no-repeat scroll center bottom / cover;">
+<section class="breadcrumbs-area ptb-140 about-bg"
+         style="background: rgba(0, 0, 0, 0) url('<?php echo base_url('assets/'); ?>img/bg-img/banner3.jpg') no-repeat scroll center bottom / cover;">
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
                 <div class="breadcrumbs">
-                    <h2 class="page-title"><?php echo $title;?></h2>
+                    <h2 class="page-title"><?php echo $title; ?></h2>
                 </div>
             </div>
         </div>
@@ -19,8 +20,36 @@
                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="event-text-img-all mb-30">
                             <div class="event-img">
+                                <a href="<?php echo base_url('kegiatan_detail');?>">
+                                    <img alt="" src="<?php echo base_url('assets/'); ?>img/event/mbuh.jpg">
+                                </a>
+                            </div>
+                            <div class="event-text">
+                                <div class="event-time">
+                                            <span class="published">
+                                                <i class="fa fa-clock-o"></i>
+                                                02d : 11h : 22m : 42s
+                                            </span>
+                                </div>
+                                <h3><a href="<?php echo base_url('kegiatan_detail');?>">Presidential Elections 2017</a></h3>
+                                <div class="event-month">
+                                            <span class="published2">
+                                                <i class="fa fa-calendar" aria-hidden="true"></i>
+                                                4 May, 2017
+                                            </span>
+                                    <span class="published2 comment-left">
+                                                <i class="fa fa-comments-o" aria-hidden="true"></i>
+                                                <a href="#">02 Comment</a>
+                                            </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 col-xs-12">
+                        <div class="event-text-img-all mb-30">
+                            <div class="event-img">
                                 <a href="#">
-                                    <img alt="" src="<?php echo base_url('assets/');?>img/event/4.jpg">
+                                    <img alt="" src="<?php echo base_url('assets/'); ?>img/event/mbuh1.jpg">
                                 </a>
                             </div>
                             <div class="event-text">
@@ -48,7 +77,7 @@
                         <div class="event-text-img-all mb-30">
                             <div class="event-img">
                                 <a href="#">
-                                    <img alt="" src="<?php echo base_url('assets/');?>img/event/5.jpg">
+                                    <img alt="" src="<?php echo base_url('assets/'); ?>img/event/mbuh2.jpg">
                                 </a>
                             </div>
                             <div class="event-text">
@@ -76,7 +105,7 @@
                         <div class="event-text-img-all mb-30">
                             <div class="event-img">
                                 <a href="#">
-                                    <img alt="" src="<?php echo base_url('assets/');?>img/event/6.jpg">
+                                    <img alt="" src="<?php echo base_url('assets/'); ?>img/event/mbuh3.jpg">
                                 </a>
                             </div>
                             <div class="event-text">
@@ -104,35 +133,7 @@
                         <div class="event-text-img-all mb-30">
                             <div class="event-img">
                                 <a href="#">
-                                    <img alt="" src="<?php echo base_url('assets/');?>img/event/7.jpg">
-                                </a>
-                            </div>
-                            <div class="event-text">
-                                <div class="event-time">
-                                            <span class="published">
-                                                <i class="fa fa-clock-o"></i>
-                                                02d : 11h : 22m : 42s
-                                            </span>
-                                </div>
-                                <h3><a href="#">Presidential Elections 2017</a></h3>
-                                <div class="event-month">
-                                            <span class="published2">
-                                                <i class="fa fa-calendar" aria-hidden="true"></i>
-                                                4 May, 2017
-                                            </span>
-                                    <span class="published2 comment-left">
-                                                <i class="fa fa-comments-o" aria-hidden="true"></i>
-                                                <a href="#">02 Comment</a>
-                                            </span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-6 col-xs-12">
-                        <div class="event-text-img-all mb-30">
-                            <div class="event-img">
-                                <a href="#">
-                                    <img alt="" src="<?php echo base_url('assets/');?>img/event/8.jpg">
+                                    <img alt="" src="<?php echo base_url('assets/'); ?>img/event/mbuh2.jpg">
                                 </a>
                             </div>
                             <div class="event-text">
@@ -160,7 +161,7 @@
                         <div class="event-text-img-all res-event mb-30">
                             <div class="event-img">
                                 <a href="#">
-                                    <img alt="" src="<?php echo base_url('assets/');?>img/event/9.jpg">
+                                    <img alt="" src="<?php echo base_url('assets/'); ?>img/event/mbuh.jpg">
                                 </a>
                             </div>
                             <div class="event-text">
@@ -188,7 +189,7 @@
 
 
             </div>
-            <?php include 'right_column.php';?>
+            <?php include 'right_column.php'; ?>
         </div>
     </div>
 </section>

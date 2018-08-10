@@ -1,4 +1,4 @@
-<section class="breadcrumbs-area ptb-140 about-bg" style="background: rgba(0, 0, 0, 0) url('<?php echo base_url('assets/');?>img/bg-img/bg7.jpg') no-repeat scroll center bottom / cover;">
+<section class="breadcrumbs-area ptb-140 about-bg" style="background: rgba(0, 0, 0, 0) url('<?php echo base_url('assets/'); ?>img/bg-img/banner3.jpg') no-repeat scroll center bottom / cover;">
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
@@ -15,7 +15,7 @@
             <div class="col-md-9 col-sm-8 fix">
                 <div class="blog-container-inner">
                     <div class="post-thumb">
-                        <a href="#"><img class="attachment-blog-list" src="<?php echo base_url('assets/');?>img/blog/8.jpg" alt=""></a>
+                        <a href="#"><img class="attachment-blog-list" src="<?php echo base_url('assets/');?>img/blog/Berita1.jpg" alt=""></a>
                     </div>
                     <div class="visual-inner">
                         <div class="home-2-blog">
@@ -36,7 +36,7 @@
                 </div>
                 <div class="blog-container-inner blog-two-mrg">
                     <div class="post-thumb">
-                        <a href="#"><img class="attachment-blog-list" src="<?php echo base_url('assets/');?>img/blog/9.jpg" alt=""></a>
+                        <a href="#"><img class="attachment-blog-list" src="<?php echo base_url('assets/');?>img/blog/Berita1.jpg" alt=""></a>
                     </div>
                     <div class="visual-inner">
                         <div class="home-2-blog">
