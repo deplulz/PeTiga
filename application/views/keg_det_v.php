@@ -24,18 +24,18 @@
                 </div>
 
                 <!-- Full-width images with number and caption text -->
-                <div class="mySlides fade" style="display: contents;">
-                    <img src="<?php echo base_url('assets/'); ?>img/slider/4.jpg">
+                <div class="mySlides fade";">
+                    <img src="<?php echo base_url('assets/'); ?>img/kegiatan/1.jpg">
                     <div class="container text">Candi umCandi umbul merupakan sebuah kolam pemandian berbentuk persegi empat yang dibuat dari batu-batu komponen bangunan candi kuno. Pemandian  Air Hangat Candi Umbul memilki 2 buah kolam ukuran 12,5 x 7,15 meter dan kolam ukuran 8,5 x 7 meterCandi umbul merupakan sebuah kolam pemandian berbentuk persegi empat yang dibuat dari batu-batu komponen bangunan candi kuno. Pemandian  Air Hangat Candi Umbul memilki 2 buah kolam ukuran 12,5 x 7,15 meter dan kolam ukuran 8,5 x 7 meterCandi umbul merupakan sebuah kolam pemandian berbentuk persegi empat yang dibuat dari batu-batu komponen bangunan candi kuno. Pemandian  Air Hangat Candi Umbul memilki 2 buah kolam ukuran 12,5 x 7,15 meter dan kolam ukuran 8,5 x 7 meterbul merupakan sebuah kolam pemandian berbentuk persegi empat yang dibuat dari batu-batu komponen bangunan candi kuno. Pemandian  Air Hangat Candi Umbul memilki 2 buah kolam ukuran 12,5 x 7,15 meter dan kolam ukuran 8,5 x 7 meter</div>
                 </div>
 
-                <div class="mySlides fade" style="display: none;">
-                    <img src="<?php echo base_url('assets/'); ?>img/slider/2.jpg" style="width:100%">
+                <div class="mySlides fade";">
+                    <img src="<?php echo base_url('assets/'); ?>img/kegiatan/2.jpg" style="width:100%">
                     <div class="text">Caption Two</div>
                 </div>
 
-                <div class="mySlides fade" style="display: none;">
-                    <img src="<?php echo base_url('assets/'); ?>img/slider/2.jpg" style="width:100%">
+                <div class="mySlides fade";">
+                    <img src="<?php echo base_url('assets/'); ?>img/kegiatan/3.jpg" style="width:100%">
                     <div class="text">Caption Three</div>
                 </div>
 

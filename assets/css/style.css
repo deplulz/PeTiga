@@ -910,6 +910,11 @@ span.published2 i {
 }
 .event-img {
     overflow: hidden;
+    height: 215px;
+    border: 1px solid;
+    align-items: center;
+    border-color: #ddd;
+    border-bottom-style: none;
 }
 .event-img img {
     overflow: hidden;
@@ -1381,6 +1386,12 @@ span.published2 i {
 }
 .post-thumb img {
     width: 100%;
+}
+.home-post-thumb img {
+    height: 350px;
+}
+.kegiatan-post-thumb {
+    height: 350px;
 }
 .post-for2 > img {
     width: 100%;
@@ -4385,6 +4396,10 @@ span.tag {
 
 .FooterLogo {
     width: 50%;
+}
+
+.bda {
+    margin-top:1%;
 }
 
 /*.col-container {*/

@@ -1,4 +1,5 @@
-<section class="breadcrumbs-area ptb-140 about-bg">
+<section class="breadcrumbs-area ptb-140 about-bg"
+         style="background: rgba(0, 0, 0, 0) url('<?php echo base_url('assets/'); ?>img/bg-img/banner3.jpg') no-repeat scroll center bottom / cover;">
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
@@ -10,92 +11,49 @@
     </div>
 </section>
 
-<div class="bend niceties preview-2">
-    <div id="ensign-nivoslider-2" class="slides nivoSlider">
-        <img src="<?php echo base_url('assets/'); ?>img/slider/4.jpg" alt="" title="#slider-direction-3">
-        <img src="<?php echo base_url('assets/'); ?>img/slider/2.jpg" alt="" title="#slider-direction-1">
-        <div class="nivo-directionNav">
-            <a class="nivo-prevNav">Prev</a>
-            <a class="nivo-nextNav">Next</a>
+<div class="col-md-12 bd">
+    <div class="container">
+<!--        <div class="col-md-12">-->
+
+                <div class="col-md-offset-4">
+                    <h1 class="align-center bda">blablablabla</h1>
+                </div>
+
+
+
+        <div class="col-md-4 col-sm-4 bd">
+            <img class="img-news" src="<?php echo base_url('assets/'); ?>img/blog/berita1.jpg">
         </div>
-    </div>
-    <div class="nivo-controlNav">
-        <a class="nivo-control active" rel="0">1</a>
-        <a class="nivo-control" rel="1">2</a>
+        <div class="col-md-6 col-sm-1 bd">
+            <P>askjjdhlasjdssalkdnaskdlashdklasjldjlasjdlasjdlsajdjasljdlaskasdlasjdlkasjldkjaslkdjlask
+                asdlasjdlajsdkasjldkjas
+                asdlajld
+                asdjasjldjasdjlasjdlask
+                asljsaas
+                asdJAKARTA, KOMPAS.com - Banyak pihak yang terkejut saat Presiden Joko Widodo mengumumkan cawapresnya
+                untuk Pilpres 2019 yakni Ketua Umum Majelis Ulama Indonesia (MUI) Ma'ruf Amin. Bagaimana tidak, sebab
+                beberapa hari jelang pengumuman itu, nama mantan Ketua MK, Mahfud MD menguat dan disebut-sebut sebagai
+                cawapres pilihan Jokowi. Bahkan beberapa menit sebelum pengumuman, Mahfud MD terlihat berada di
+                sekitaran Restoran Pelataran, Menteng, Jakarta Pusat, tempat digelarnya konferensi pers pengumuman
+                cawapres Jokowi. Baca juga: PPP Yakin Jokowi-Maruf Seimbangkan Coattail Effect Partai Koalisi Terkait
+                hal itu, Wakil Presiden Jusuf Kalla menilai bahwa perubahan yang begitu cepat disebabkan karena parpol
+                pendukung Jokowi sulit menemukan konsensus terkait nama Mahmud MD. "Dalam pencalonan itu tak tergantung
+                satu orang, artinya Pak Jokowi tidak sendirian, harus melibatkan setidaknya 6-9 pimpinan partai pada
+                saat terahkir itu susah dicapai konsensus di antara semuanya," ujarnya di Kantor Wakil Presiden,
+                Jakarta, Jumat (10/8/2018). "Maka berubahlah tiba-tiba pilihan itu. Saya kira itu susah dicapai
+                konsensus antara partai maka dipilih jalan tengah," sambung dia. Kalla mengaku tak berkomunikasi dengan
+                Mahfud MD pada hari pengumuman cawapres Jokowi. Mahfud, kata dia, juga tidak menghubunginya untuk bicara
+                terkait dinamika terkini. Baca juga: Maruf Amin, Sarung, dan Kearifan Lokal... Meski begitu Kalla
+                mengatakan bahwa politik sangat dinamis sehingga kemungkinan perubahan bisa terjadi. Bahkan di saat-saat
+                terakhir sekalipun. "Seperti saya katakan saat-saat terakhir pasti timbul apa itu, sama saja dengan
+                Pilkada DKI, kan saat terakhir, menit terakhir, baru masuk Anies (Baswedan). Sama, banyak
+                kejadian-kejadian seperti itu yang kita hadapi," kata Kalla. Sebelumnya, Jokowi-Ma'ruf Amin resmi
+                mendaftarkan diri sebagai capres dan cawapres pada Jumat (10/8/2018). Mereka datang ke KPU sekitar pukul
+                09.00 WIB pagi tadi.
+                Artikel ini telah tayang di Kompas.com dengan judul "JK Bicara soal "Tikungan Akhir" Cawapres Jokowi ",
+                https://nasional.kompas.com/read/2018/08/10/17325401/jk-bicara-soal-tikungan-akhir-cawapres-jokowi.
+                Penulis : Yoga Sukmana
+                Editor : Krisiandi</P>
+        </div>
     </div>
 </div>
-
-<section class="blog-two-details-area ptb-80">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-9 col-md-offset-1 commentContent">
-                <div class="blog-container-inner">
-                    <!--                            <div class="post-for2">-->
-                    <!--                                <img src="-->
-                    <?php //echo base_url('assets/');?><!--img/blog/10.jpg" alt="">-->
-                    <!--                            </div>-->
-                    <div class="visual-inner">
-                        <h3 class="blog-title">
-                            Presidential Elections 2017
-                        </h3>
-                        <div class="blog-meta">
-                                        <span class="published3">
-                                            <i class="fa fa-calendar" aria-hidden="true"></i> 26 June, 2017
-                                        </span>
-                            <span class="published4"><i class="fa fa-comments-o"
-                                                        aria-hidden="true"></i> 01 Comment </span>
-                        </div>
-                        <div class="blog-content">
-                            <p>It is a long established fact that a reader will be distracted by the readable
-                                content of a page when looking at its layout. The point of using Lorem Ipsum is that
-                                it has a more-or-less normal. Dramatically cultivate viral paradigms after team
-                                building e-services. Energistically network worldwide systems after highly efficient
-                                innovation.Dramatically leverage other’s cross-unit expertise vis-a-vis
-                                cross-platform ideas. Uniquely disintermediate cross-media synergy without fully
-                                researched internal or “organic” sources. Monotonectally empower competitive
-                                innovation after alternative core competencies. Professionally optimize turnkey
-                                deliverables after enterprise bandwidth. Assertively foster inexpensive “outside the
-                                box” thinking rather than intermandated niche markets.</p>
-                            <p class="blog-paragraph">Interactively implement intermandated architectures without
-                                vertical methods of empowerment. Enthusiastically streamline multidisciplinary
-                                e-business after frictionless schemas. Phosfluorescently fabricate intuitive
-                                architectures through empowered manufactured products. Professionally repurpose
-                                dynamic products whereas team driven process improvements. Authoritatively grow
-                                leading-edge process improvements vis-a-vis cooperative internal or “organic”
-                                sources.</p>
-                        </div>
-                    </div>
-                    <div class="blog-tag">
-                        <p><i class="fa fa-tags" aria-hidden="true"></i><span class="tag">Tags:</span> Political,
-                            <span class="vidos2">Video</span>, Politico, Donate, Blog</p>
-                    </div>
-                    <div class="blog-share">
-                        <p><i class="fa fa-share-alt" aria-hidden="true"></i><span class="tag">Share:</span></p>
-                        <ul>
-                            <li>
-                                <a href="#">
-                                    <i class="fa fa-facebook"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <i class="fa fa-google-plus"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <i class="fa fa-twitter" aria-hidden="true"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <i class="fa fa-instagram" aria-hidden="true"></i>
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>

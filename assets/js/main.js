@@ -264,15 +264,29 @@
         loop: true,
     });
 
-    //ValidasiPageDetail
-    // (window.onload=function () {
-    //     var elem = document.getElementById("elem");
-    //     if (window.location.pathname = "/Berita_Detail")
-    //     {
-    //         elem.style.width = "13%";
-    //     }
-    // });
+    /*----------------------------
+     Height Thumbnail
+     ------------------------------ */
+        // (function() {
+        //     $(function() {
+        //         $('.thumbnail').hei({
+        //             byRow: true,
+        //             property: 'height',
+        //             target: null,
+        //             remove: false
+        //         });
+        //     });
+    // })();
 
 
+        var $uri = window.location.pathname;
+        var q = document.getElementsByClassName('path-thumb');
 
+        if ($uri == '/'){
+            //Jika page = beranda maka class path-thumb height = 350px
+            $('.post-thumb').addClass('home-post-thumb');
+
+        } else {
+            $('.post-thumb').removeClass('home-post-thumb');
+        }
 })(jQuery);

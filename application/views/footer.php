@@ -1,17 +1,3 @@
-<section class="subscribe-area subscribe-bg-none">
-    <!--    <div class="col-md-6">-->
-    <!--        <div class="video-border">-->
-    <!--            <div class="video-right overlay">-->
-    <!--                <div class="video-img">-->
-    <!--                    <img src="--><?php //echo base_url('assets/');?><!--img/banner/52.jpg" alt="">-->
-    <!--                </div>-->
-    <!--                <div class="video-icon">-->
-    <!--                    <a href="https://www.youtube.com/watch?v=855Am6ovK7s" class="video-popup"><i class="fa fa-play" aria-hidden="true"></i></a>-->
-    <!--                </div>-->
-    <!--            </div>-->
-    <!--        </div>-->
-    <!--    </div>-->
-</section>
 <footer id="footer" class="social-area">
     <div class="footer-middle ptb-80">
         <div class="container">
