@@ -51,6 +51,8 @@
     <!-- responsive CSS
     ============================================ -->
     <link rel="stylesheet" href="<?php echo base_url('assets/');?>css/responsive.css">
+
+    <link rel="stylesheet" href="<?php echo base_url('assets/');?>css/twitter.css">
     <!-- sliderNewStyle
     ============================================ -->
     <link rel="stylesheet" href="<?php echo base_url('assets/');?>css/SliderNew.css">

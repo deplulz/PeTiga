@@ -2165,7 +2165,7 @@ a.video-popup i {
 .event-sidebar-2 .categori-list-img a img {
     border-radius: inherit;
     height: inherit;
-    width: inherit;
+    /*width: inherit;*/
 }
 .event-sidebar-2 .categori-list-img {
     position: relative;
@@ -3403,6 +3403,7 @@ h2.page-title {
 }
 .post-details {
     padding: 27px 0 0;
+    margin-left: 49.5%;
 }
 .post-details > p {
     color: #333333;
@@ -4414,6 +4415,11 @@ span.tag {
     height: 300px;
     background: black;
     display: inline-flex;
+}
+iframe .twitter-tweet p.Tweet-text {
+    font-size: 13px;
+    text-align: justify;
+    border: 1px solid red;
 }
 
 /*.col-container {*/

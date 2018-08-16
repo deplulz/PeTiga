@@ -288,4 +288,5 @@
         } else {
             $('.post-thumb').removeClass('home-post-thumb');
         }
+    document.getElementById('twitter-widget-0').contentWindow.document.getElementsByClassName('.Tweet-body').addClass('.twitter-style');
 })(jQuery);
