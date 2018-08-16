@@ -157,46 +157,46 @@
     </div>
     <div class="container">
         <div class="grid no-gutte">
-            <div class="gallery hover-style col-md-4 col-sm-4 col-xs-12 grid-item cat1">
-                <img src="<?php echo base_url('assets/')?>img/gallery/1.jpg" alt="" />
+            <div class="gallery hover-style col-md-4 col-sm-4 col-xs-12 hg-keg">
+                <img src="<?php echo base_url('assets/')?>img/event/mbuh.jpg" alt="" />
                 <div class="gallery-title">
                     <h3>political gallery</h3>
-                    <a class="venobox" href="<?php echo base_url('assets/');?>img/gallery/1.jpg" data-gall="myGallery">view image</a>
+                    <a class="venobox" href="<?php echo base_url('assets/');?>img/event/mbuh.jpg" data-gall="myGallery">view image</a>
                 </div>
             </div>
-            <div class="gallery hover-style col-md-4 col-sm-4 col-xs-12 grid-item cat2 cat3">
-                <img src="<?php echo base_url('assets/')?>img/gallery/2.jpg" alt="" />
+            <div class="gallery hover-style col-md-4 col-sm-4 col-xs-12 hg-keg">
+                <img src="<?php echo base_url('assets/')?>img/event/mbuh1.jpg" alt="" />
                 <div class="gallery-title">
                     <h3>political gallery</h3>
-                    <a class="venobox" href=""<?php echo base_url('assets/');?>img/gallery/2.jpg" data-gall="myGallery">view image</a>
+                    <a class="venobox" href="<?php echo base_url('assets/');?>img/event/mbuh1.jpg" data-gall="myGallery">view image</a>
                 </div>
             </div>
-            <div class="gallery hover-style col-md-4 col-sm-4 col-xs-12 grid-item cat1">
-                <img src="<?php echo base_url('assets/')?>img/gallery/3.jpg" alt="" />
+            <div class="gallery hover-style col-md-4 col-sm-4 col-xs-12 hg-keg">
+                <img src="<?php echo base_url('assets/')?>img/event/mbuh2.jpg" alt="" />
                 <div class="gallery-title">
                     <h3>political gallery</h3>
-                    <a class="venobox" href=""<?php echo base_url('assets/');?>img/gallery/3.jpg" data-gall="myGallery">view image</a>
+                    <a class="venobox" href="<?php echo base_url('assets/');?>img/event/mbuh2.jpg" data-gall="myGallery">view image</a>
                 </div>
             </div>
-            <div class="gallery hover-style col-md-4 col-sm-4 col-xs-12 grid-item cat2">
-                <img src="<?php echo base_url('assets/')?>img/gallery/4.jpg" alt="" />
+            <div class="gallery hover-style col-md-4 col-sm-4 col-xs-12 hg-keg">
+                <img src="<?php echo base_url('assets/')?>img/event/mbuh3.jpg" alt="" />
                 <div class="gallery-title">
                     <h3>political gallery</h3>
-                    <a class="venobox" href=""<?php echo base_url('assets/');?>img/gallery/4.jpg" data-gall="myGallery">view image</a>
+                    <a class="venobox" href="<?php echo base_url('assets/');?>img/event/mbuh3.jpg" data-gall="myGallery">view image</a>
                 </div>
             </div>
-            <div class="gallery hover-style col-md-4 col-sm-4 col-xs-12 grid-item cat1">
-                <img src="<?php echo base_url('assets/')?>img/gallery/5.jpg" alt="" />
+            <div class="gallery hover-style col-md-4 col-sm-4 col-xs-12 hg-keg">
+                <img src="<?php echo base_url('assets/')?>img/event/mbuh2.jpg" alt="" />
                 <div class="gallery-title">
                     <h3>political gallery</h3>
-                    <a class="venobox" href=""<?php echo base_url('assets/');?>img/gallery/5.jpg" data-gall="myGallery">view image</a>
+                    <a class="venobox" href="<?php echo base_url('assets/');?>img/event/mbuh2.jpg" data-gall="myGallery">view image</a>
                 </div>
             </div>
-            <div class="gallery hover-style col-md-4 col-sm-4 col-xs-12 grid-item cat1">
-                <img src="<?php echo base_url('assets/')?>img/gallery/1.jpg" alt="" />
+            <div class="gallery hover-style col-md-4 col-sm-4 col-xs-12 hg-keg">
+                <img src="<?php echo base_url('assets/')?>img/event/mbuh.jpg" alt="" />
                 <div class="gallery-title">
                     <h3>TITLE GOES HERE</h3>
-                    <a class="venobox" href=""<?php echo base_url('assets/');?>img/gallery/1.jpg" data-gall="myGallery">view image</a>
+                    <a class="venobox" href="<?php echo base_url('assets/');?>img/event/mbuh.jpg" data-gall="myGallery">view image</a>
                 </div>
             </div>
         </div>

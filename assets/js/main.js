@@ -282,10 +282,9 @@
         var $uri = window.location.pathname;
         var q = document.getElementsByClassName('path-thumb');
 
-        if ($uri == '/'){
+        if (($uri == '/') || ($uri == '/petiga/')){
             //Jika page = beranda maka class path-thumb height = 350px
             $('.post-thumb').addClass('home-post-thumb');
-
         } else {
             $('.post-thumb').removeClass('home-post-thumb');
         }
