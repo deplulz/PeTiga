@@ -279,9 +279,16 @@
     // })();
 
 
-        var $uri = document.title.substr(9,13);
-        var q = document.getElementsByClassName('path-thumb');
+    function left($str, $length) {
+        return $str.substr(0, $length);
+    }
 
+    function right($str, $length) {
+        return $str.substr(-$length);
+    }
+
+        var $uri = right(document.title,4);
+        var q = document.getElementsByClassName('path-thumb');
         if (($uri == 'Home') || ($uri == 'home')){
             //Jika page = beranda maka class path-thumb height = 350px
             $('.post-thumb').addClass('home-post-thumb');

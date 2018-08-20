@@ -15,7 +15,7 @@
             <div class="col-md-9 col-sm-8 fix">
                 <div id="news" class="col-md-4 col-sm-4 mb-30">
                     <div class="post-thumb">
-                        <a href="#"><img class="attachment-blog-list" src="<?php echo base_url('assets/');?>img/blog/Berita1.jpg" alt=""></a>
+                        <a href="#"><img class="attachment-blog-list" src="<?php echo base_url('assets/');?>img/blog/berita1.jpg" alt=""></a>
                     </div>
                     <div class="visual-inner">
                         <div class="home-2-blog">
@@ -36,7 +36,7 @@
                 </div>
                 <div id="news1" class="col-md-4 col-sm-4 mb-30">
                     <div class="post-thumb">
-                        <a href="#"><img class="attachment-blog-list" src="<?php echo base_url('assets/');?>img/blog/Berita1.jpg" alt=""></a>
+                        <a href="#"><img class="attachment-blog-list" src="<?php echo base_url('assets/');?>img/blog/berita1.jpg" alt=""></a>
                     </div>
                     <div class="visual-inner">
                         <div class="home-2-blog">
@@ -57,7 +57,7 @@
                 </div>
                 <div id="news2" class="col-md-4 col-sm-4 mb-30">
                     <div class="post-thumb">
-                        <a href="#"><img class="attachment-blog-list" src="<?php echo base_url('assets/');?>img/blog/Berita1.jpg" alt=""></a>
+                        <a href="#"><img class="attachment-blog-list" src="<?php echo base_url('assets/');?>img/blog/berita1.jpg" alt=""></a>
                     </div>
                     <div class="visual-inner">
                         <div class="home-2-blog">
@@ -78,7 +78,7 @@
                 </div>
 <!--                <div class="col-md-4 col-sm-4 news-btm">-->
 <!--                    <div class="post-thumb">-->
-<!--                        <a href="#"><img class="attachment-blog-list" src="--><?php //echo base_url('assets/');?><!--img/blog/Berita1.jpg" alt=""></a>-->
+<!--                        <a href="#"><img class="attachment-blog-list" src="--><?php //echo base_url('assets/');?><!--img/blog/berita1.jpg" alt=""></a>-->
 <!--                    </div>-->
 <!--                    <div class="visual-inner">-->
 <!--                        <div class="home-2-blog">-->
@@ -99,7 +99,7 @@
 <!--                </div>-->
 <!--                <div class="col-md-4 col-sm-4 news-btm">-->
 <!--                    <div class="post-thumb">-->
-<!--                        <a href="#"><img class="attachment-blog-list" src="--><?php //echo base_url('assets/');?><!--img/blog/Berita1.jpg" alt=""></a>-->
+<!--                        <a href="#"><img class="attachment-blog-list" src="--><?php //echo base_url('assets/');?><!--img/blog/berita1.jpg" alt=""></a>-->
 <!--                    </div>-->
 <!--                    <div class="visual-inner">-->
 <!--                        <div class="home-2-blog">-->
@@ -120,7 +120,7 @@
 <!--                </div>-->
 <!--                <div class="col-md-4 col-sm-4 news-btm">-->
 <!--                    <div class="post-thumb">-->
-<!--                        <a href="#"><img class="attachment-blog-list" src="--><?php //echo base_url('assets/');?><!--img/blog/Berita1.jpg" alt=""></a>-->
+<!--                        <a href="#"><img class="attachment-blog-list" src="--><?php //echo base_url('assets/');?><!--img/blog/berita1.jpg" alt=""></a>-->
 <!--                    </div>-->
 <!--                    <div class="visual-inner">-->
 <!--                        <div class="home-2-blog">-->
