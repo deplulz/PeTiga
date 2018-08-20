@@ -1,6 +1,7 @@
 <div class="col-md-3 col-sm-4">
     <h3>
-        <input class="form-control input-lg" placeholder="Search" value="" name="search" type="text"></h3>
+        <input id="txtsrc" class="form-control input-lg" placeholder="Search" name="search" type="text">
+    </h3>
     <h3 class="ArchiveColor">Archive</h3>
     <div class="event-sidebar-2">
         <div class="categori-list1">

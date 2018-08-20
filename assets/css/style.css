@@ -3921,8 +3921,9 @@ h3.details-three {
     margin: 40px 0;
 }
 .blog-two-area .pages {
-    float: right;
+    float: left;
     margin-top: 35px;
+    margin-left: 2%;
 }
 .blog-two-area .pages li.cut a {
     margin-right: 0;
@@ -4420,6 +4421,10 @@ iframe .twitter-tweet p.Tweet-text {
     font-size: 13px;
     text-align: justify;
     border: 1px solid red;
+}
+
+.news-btm {
+    margin-top: 3%;
 }
 
 /*.col-container {*/

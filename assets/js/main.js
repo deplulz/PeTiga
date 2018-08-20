@@ -279,14 +279,16 @@
     // })();
 
 
-        var $uri = window.location.pathname;
+        var $uri = document.title.substr(9,13);
         var q = document.getElementsByClassName('path-thumb');
 
-        if (($uri == '/') || ($uri == '/petiga/')){
+        if (($uri == 'Home') || ($uri == 'home')){
             //Jika page = beranda maka class path-thumb height = 350px
             $('.post-thumb').addClass('home-post-thumb');
         } else {
             $('.post-thumb').removeClass('home-post-thumb');
         }
-    document.getElementById('twitter-widget-0').contentWindow.document.getElementsByClassName('.Tweet-body').addClass('.twitter-style');
+    // document.getElementById('twitter-widget-0').contentWindow.document.getElementsByClassName('.Tweet-body').addClass('.twitter-style');
+
+
 })(jQuery);

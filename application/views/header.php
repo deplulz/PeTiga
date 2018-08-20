@@ -13,7 +13,7 @@
             <nav>
                 <ul>
                     <li><a class="menu-icon" href="<?php echo base_url();?>">Beranda</a></li>
-                    <li><a href="<?php echo base_url('Profile');?>">Profile</a></li>
+                    <li><a href="<?php echo base_url('Profile');?>">Profil</a></li>
                     <li><a href="<?php echo base_url('Berita');?>">Berita</a></li>
                     <li><a href="<?php echo base_url('Kegiatan');?>">Kegiatan</a></li>
                  </ul>
