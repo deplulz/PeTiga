@@ -65,8 +65,9 @@
 <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
 <![endif]-->
 <!-- Add your site or application content here -->
-<?php include 'header.php';?>
-<?php include 'mobile_header.php';?>
+
+<?php $this->load->view('header.php');?>
+<?php $this->load->view('mobile_header.php');?>
 <?php echo $page;?>
 <?php include 'footer.php';?>
 

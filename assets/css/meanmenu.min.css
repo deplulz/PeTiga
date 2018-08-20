@@ -33,7 +33,9 @@ a.meanmenu-reveal{display:none}
   font-weight: bold;
 }
 .mobile-menu-area {
-  background: #00ea07;
+    background: transparent;
+    margin-top: -51px;
+    /*margin-right: -35px;*/
 }
 .mean-container .mean-nav ul li li a {
   border-top: 1px solid rgba(255, 255, 255, 0.25);
@@ -77,7 +79,7 @@ a.meanmenu-reveal{display:none}
 .mean-remove{display:none!important}
 .mean-container .mean-bar::after {
   color: #ffffff;
-  content: "MENU";
+  /*content: "MENU";*/
   font-size: 21px;
   left: -7%;
   position: absolute;

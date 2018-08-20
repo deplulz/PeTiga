@@ -1,4 +1,4 @@
-<div class="col-md-3 col-sm-4">
+<div id="side-Col" class="col-md-3 col-sm-4">
     <h3>
         <input id="txtsrc" class="form-control input-lg" placeholder="Search" name="search" type="text">
     </h3>

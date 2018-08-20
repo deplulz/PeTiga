@@ -643,7 +643,7 @@
         margin-bottom: 10px;
     }
     .header-area.home-2 {
-        background: rgba(0, 0, 0, 1) none repeat scroll 0 0;
+        background: #00ea07 none repeat scroll 0 0;
         position: inherit;
     }
     .campaign-bottom .col-md-6.up-right {
@@ -1278,7 +1278,8 @@
     }
     .blog-two-area .pages {
         float: left;
-        margin-top: 15px;
+        margin-left: 37px;
+        margin-top: -15px;
     }
     .blog-two-area .issues-top2 {
         margin-top: 40px;
@@ -1341,7 +1342,7 @@
         position: inherit;
     }
     .header-area.home-2 {
-        background: rgba(0, 0, 0, 1) none repeat scroll 0 0;
+        background: #00ea07 none repeat scroll 0 0;
     }
     .home-2.stick-h2.stick {
         position: inherit;
@@ -1520,6 +1521,9 @@
         margin-bottom: 15px;
         padding-right: 0;
         width: 100%;
+    }
+    .wi-0 {
+        width: 0%;
     }
     .event-sidebar-2 {
         margin-top: 30px;

@@ -1,5 +1,5 @@
 <div class="mobile-menu-area hidden-lg hidden-md">
-    <div class="container">
+<!--    <div class="container">-->
         <div class="col-md-12">
             <div class="mobile-menu-area">
                 <div class="row">
@@ -18,5 +18,5 @@
                 </div>
             </div>
         </div>
-    </div>
+<!--    </div>-->
 </div>

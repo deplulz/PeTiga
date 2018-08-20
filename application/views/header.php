@@ -1,7 +1,7 @@
 <header class="header-area home-2 stick-h2">
     <div class="col-md-12">
         <div class="logo floatleft">
-            <a href="index.html">
+            <a href="<?php echo base_url();?>">
                 <img class="bg_Size" alt="" src="<?php echo base_url('assets/');?>img/logo/Logo_PPP.png">
             </a>
         </div>

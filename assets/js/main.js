@@ -290,5 +290,24 @@
         }
     // document.getElementById('twitter-widget-0').contentWindow.document.getElementsByClassName('.Tweet-body').addClass('.twitter-style');
 
+    function ElementByID(ids){
+        var idsget = [].slice.call(arguments), result = [];
+        for (var i=0;i<idsget.length;i=i+1){
+            result.push(document.getElementById(idsget[i]));
+        }
+        return result;
+    }
+
+    if ((window.matchMedia("(max-width: 768px)").matches) && window.matchMedia(("(min-width: 768px)"))){
+     var sc = document.getElementById('side-Col');
+     var nml = ElementByID('news','news1','news2');
+            $('.bg_Size').removeClass('bg_Size').addClass('bg-size-resp');
+            $('.header-area .logo').addClass('ml');
+            $('.categori-list-img').addClass('wi-0');
+            $('.hg-keg').addClass('hg-keg-r');
+            $('.home-post-thumb').addClass('h-a');
+            sc.classList.add('mt-20');
+            nml.addClass('mb-30');
+    }
 
 })(jQuery);
