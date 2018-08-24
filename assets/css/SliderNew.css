@@ -123,3 +123,12 @@
     margin-left: 8%;
     font-weight: bold;
 }
+
+.arr-sr {
+    top: 275px;
+    right: -15px;
+}
+
+.arr-sl {
+    top: 275px;
+}
