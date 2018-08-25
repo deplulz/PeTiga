@@ -1,9 +1,15 @@
+var  text = document.getElementsByClassName("text");
 var slideIndex = 1;
+
+if ((window.matchMedia("(max-width: 768px)").matches) && window.matchMedia(("(min-width: 768px)"))) {
+    tset(text);
+}
 showSlides(slideIndex);
+
 
 // Next/previous controls
 function plusSlides(n) {
-    showSlides(slideIndex += n);
+   showSlides(slideIndex += n);
 }
 
 // Thumbnail image controls
@@ -11,11 +17,21 @@ function currentSlide(n) {
     showSlides(slideIndex = n);
 }
 
+// mengganti value text
+function tval(a) {
+    text = document.getElementsByClassName(a);
+}
+
+function tset(z) {
+    for (i = 0; i < text.length; i++) {
+        text[i].style.display = "none";
+    }
+}
+
 function showSlides(n) {
     var i;
     var slides = document.getElementsByClassName("mySlides");
     var dots = document.getElementsByClassName("dot");
-    var text = document.getElementsByClassName("text");
     if (n > slides.length) {
         slideIndex = 1
     }
@@ -29,20 +45,18 @@ function showSlides(n) {
         dots[i].className = dots[i].className.replace(" active", "");
     }
 
-// if mobile
+    // if mobile
     if ((window.matchMedia("(max-width: 768px)").matches) && window.matchMedia(("(min-width: 768px)"))) {
-        for (i = 0; i < text.length; i++) {
-            text[i].style.display = "none";
-        }
 
         slides[slideIndex - 1].style.display = "block";
         dots[slideIndex - 1].className += " active";
+        tset(text);
         var $x = text[slideIndex - 1].style;
         $x.removeProperty("display");
         $x.position = "inherit";
         $x.color = "black";
-        $x.width = "100%";
-        $x.justifyItems ="right";
+        $x.width = "109%";
+        $x.marginLeft = "-15px";
     } else { //if desktop
         slides[slideIndex - 1].style.display = "contents";
         dots[slideIndex - 1].className += " active";

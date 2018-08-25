@@ -91,6 +91,9 @@
 <!-- plugins JS
 ============================================ -->
 <script src="<?php echo base_url('assets/');?>js/plugins.js"></script>
+<!-- Slide JS
+============================================ -->
+<script src="<?php echo base_url('assets/');?>js/jquery.dev.slider.new.js"></script>
 <!-- main JS
 ============================================ -->
 <script src="<?php echo base_url('assets/');?>js/main.js"></script>

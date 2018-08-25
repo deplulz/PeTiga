@@ -309,7 +309,7 @@
         var sc = document.getElementById('side-Col');
         var nml = ElementByID('news', 'news1', 'news2');
         var $page = right(location.pathname, 15);
-
+        var i;
         $('.bg_Size').removeClass('bg_Size').addClass('bg-size-resp');
         $('.header-area .logo').addClass('ml');
         $('.categori-list-img').addClass('wi-0');
@@ -318,10 +318,16 @@
         if ($page == 'kegiatan_detail') {
             $('.next').addClass('arr-sr');
             $('.prev').addClass('arr-sl');
+            $('.LUT').removeClass('LUT').addClass('LUTR');
+            $('.LUB').removeClass('LUB').addClass('LUBR');
+            $('.text').removeClass('text').addClass('text-resp');
+            tval('text-resp');
+            $('.pos').addClass('hide');
         }
-        sc.classList.add('mt-20');
-        nml.addClass('mb-30');
-
+        sc.addClass('mt-20');
+        for (i=0; i<nml.length; i++){
+            nml[i].addClass('mb-30');
+        }
 
     }
 })(jQuery);
