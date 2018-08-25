@@ -55,8 +55,8 @@ function showSlides(n) {
         $x.removeProperty("display");
         $x.position = "inherit";
         $x.color = "black";
-        $x.width = "109%";
-        $x.marginLeft = "-15px";
+        // $x.width = "109%";
+        $x.marginLeft = "-14px";
     } else { //if desktop
         slides[slideIndex - 1].style.display = "contents";
         dots[slideIndex - 1].className += " active";
