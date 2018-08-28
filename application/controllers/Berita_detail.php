@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Berita_Detail extends CI_Controller {
+class Berita_detail extends CI_Controller {
     public function index()
     {
         $data['title']='Berita';
