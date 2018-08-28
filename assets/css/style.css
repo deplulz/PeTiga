@@ -825,7 +825,8 @@ a.min1:hover {
 }
 
 .ArchiveColor {
-    color: #ff2f00;
+    color: black;
+    margin-bottom: 15px;
 }
 
 .mission-text > h3 {
@@ -1024,7 +1025,7 @@ span.published2 i {
 .published2 a {
     margin-right: 11px;
     color: #333;
-    font-size: 12px;
+    font-size: 11px;
 }
 
 .published2 a:hover {
@@ -1602,9 +1603,11 @@ span.published2 i {
 }
 
 .campaign-two .blog-meta {
-    border-top: 1px solid #ddd;
-    margin: 0;
-    padding: 12px 20px 12px 20px;
+    /* border-bottom: 1px solid #ddd; */
+    margin-bottom: -11px;
+    padding: 0px 20px 12px 20px;
+    /* border-top: 1px solid #ddd; */
+    margin-top: -6px;
 }
 
 .campaign-area .blog-container-inner .post-thumb a.tb-publish,
@@ -1652,7 +1655,8 @@ span.published2 i {
 .home-post-thumb img {
     height: 350px;
 }
-.h-a img{
+
+.h-a img {
     height: auto;
 }
 
@@ -1685,10 +1689,13 @@ h3.blog-title {
 
 .blog-meta > span.published3 {
     padding-right: 11px;
+    font-size: 10px;
+    margin-left: -19px;
 }
 
 .published4 {
-    float: right;
+    float: inherit;
+    font-size: 11px;
 }
 
 .blog-content > p {
@@ -2073,7 +2080,7 @@ h3.blog-title {
     top: 0;
     width: 100%;
     z-index: 99999;
-    bottom: 87.5%;
+    bottom: 79.5%;
 }
 
 .home-2.stick-h2.stick {
@@ -2082,6 +2089,7 @@ h3.blog-title {
     top: 0;
     z-index: 9;
     animation: 300ms ease-in-out 0s normal none 1 running fadeInDown;
+    bottom:87.5%;
 }
 
 .home-2 .main-menu ul li a {
@@ -5296,6 +5304,23 @@ iframe .twitter-tweet p.Tweet-text {
 
 .news-btm {
     margin-top: 3%;
+}
+
+.title-text {
+    text-align: center;
+    font-size: 60px;
+    margin-top: -110px;
+}
+
+.berita-text {
+    min-height: 500px;
+    text-align: justify;
+    font-size: 15px;
+    bottom: 5px;
+}
+
+.ml-20 {
+    margin-left: 20px;
 }
 
 /*.col-container {*/

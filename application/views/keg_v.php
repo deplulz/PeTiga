@@ -25,12 +25,6 @@
                                 </a>
                             </div>
                             <div class="event-text">
-                                <div class="event-time">
-                                            <span class="published">
-                                                <i class="fa fa-clock-o"></i>
-                                                02d : 11h : 22m : 42s
-                                            </span>
-                                </div>
                                 <h3><a href="<?php echo base_url('kegiatan_detail');?>">Presidential Elections 2017</a></h3>
                                 <div class="event-month">
                                             <span class="published2">
@@ -53,12 +47,6 @@
                                 </a>
                             </div>
                             <div class="event-text">
-                                <div class="event-time">
-                                            <span class="published">
-                                                <i class="fa fa-clock-o"></i>
-                                                02d : 11h : 22m : 42s
-                                            </span>
-                                </div>
                                 <h3><a href="#">Presidential Elections 2017</a></h3>
                                 <div class="event-month">
                                             <span class="published2">
@@ -81,12 +69,6 @@
                                 </a>
                             </div>
                             <div class="event-text">
-                                <div class="event-time">
-                                            <span class="published">
-                                                <i class="fa fa-clock-o"></i>
-                                                02d : 11h : 22m : 42s
-                                            </span>
-                                </div>
                                 <h3><a href="#">Presidential Elections 2017</a></h3>
                                 <div class="event-month">
                                             <span class="published2">
@@ -109,12 +91,6 @@
                                 </a>
                             </div>
                             <div class="event-text">
-                                <div class="event-time">
-                                            <span class="published">
-                                                <i class="fa fa-clock-o"></i>
-                                                02d : 11h : 22m : 42s
-                                            </span>
-                                </div>
                                 <h3><a href="#">Presidential Elections 2017</a></h3>
                                 <div class="event-month">
                                             <span class="published2">
@@ -137,12 +113,6 @@
                                 </a>
                             </div>
                             <div class="event-text">
-                                <div class="event-time">
-                                            <span class="published">
-                                                <i class="fa fa-clock-o"></i>
-                                                02d : 11h : 22m : 42s
-                                            </span>
-                                </div>
                                 <h3><a href="#">Presidential Elections 2017</a></h3>
                                 <div class="event-month">
                                             <span class="published2">
@@ -165,12 +135,6 @@
                                 </a>
                             </div>
                             <div class="event-text">
-                                <div class="event-time">
-                                            <span class="published">
-                                                <i class="fa fa-clock-o"></i>
-                                                02d : 11h : 22m : 42s
-                                            </span>
-                                </div>
                                 <h3><a href="#">Presidential Elections 2017</a></h3>
                                 <div class="event-month">
                                             <span class="published2">
