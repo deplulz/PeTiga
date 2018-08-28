@@ -5387,3 +5387,7 @@ iframe .twitter-tweet p.Tweet-text {
 .middle-mgn {
     margin-top:-10px;
 }
+
+.bd-hm {
+    border: 1px solid #ddd;
+}

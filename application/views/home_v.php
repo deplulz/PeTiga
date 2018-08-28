@@ -54,7 +54,7 @@
                                      src="<?php echo base_url('assets/') ?>img/blog/berita1.jpg" alt="">
                             </a>
                         </div>
-                        <div class="visual-inner">
+                        <div class="visual-inner bd-hm">
                             <div class="home-2-blog">
                                 <h3 class="blog-title">
                                     <a href="#"> World economy lurches towards</a>
@@ -83,7 +83,7 @@
                             <a href="#"><img class="attachment-blog-list"
                                              src="<?php echo base_url('assets/') ?>img/blog/berita1.jpg" alt=""></a>
                         </div>
-                        <div class="visual-inner">
+                        <div class="visual-inner bd-hm">
                             <div class="home-2-blog">
                                 <h3 class="blog-title">
                                     <a href="#">World economy towards</a>
@@ -113,7 +113,7 @@
                                      src="<?php echo base_url('assets/') ?>img/gallery/mbuh2.jpg" alt="">
                             </a>
                         </div>
-                        <div class="visual-inner">
+                        <div class="visual-inner bd-hm">
                             <div class="home-2-blog">
                                 <h3 class="blog-title">
                                     <a href="#">Main principles of the new strategy</a>
