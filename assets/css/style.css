@@ -179,6 +179,14 @@ body {
     padding-top: 80px;
 }
 
+.pb-20 {
+    padding: 20px;
+}
+
+.pt-65 {
+    padding-top: 65px;
+}
+
 .pt-160 {
     padding-top: 160px;
 }
@@ -441,7 +449,7 @@ body {
 .main-menu ul li {
     float: left;
     margin-left: 50px;
-    padding: 40px 0 38px;
+    padding: 20px 0 38px;
     position: relative;
     transition: all 0.3s ease 0s;
 }
@@ -1592,7 +1600,7 @@ span.published2 i {
 }
 
 .campaign-two .visual-inner {
-    border: 1px solid #ddd;
+    /*border: 1px solid #ddd;*/
     padding-top: 12px;
 }
 
@@ -1669,7 +1677,7 @@ span.published2 i {
 }
 
 h3.blog-title {
-    margin-bottom: 0;
+    margin-bottom: 4px;
 }
 
 .blog-meta {
@@ -2080,7 +2088,7 @@ h3.blog-title {
     top: 0;
     width: 100%;
     z-index: 99999;
-    bottom: 79.5%;
+    bottom: 92%;
 }
 
 .home-2.stick-h2.stick {
@@ -2089,7 +2097,7 @@ h3.blog-title {
     top: 0;
     z-index: 9;
     animation: 300ms ease-in-out 0s normal none 1 running fadeInDown;
-    bottom:87.5%;
+    bottom:92%;
 }
 
 .home-2 .main-menu ul li a {
@@ -5163,7 +5171,7 @@ span.tag {
 
 .home-2.stick-h2.stick .main-menu ul li,
 .stick .main-menu ul li {
-    padding: 33px 0 32px;
+    padding: 20px 0 32px;
 }
 
 .home-2.stick-h2.stick .main-menu ul li ul li {
@@ -5319,16 +5327,63 @@ iframe .twitter-tweet p.Tweet-text {
     bottom: 5px;
 }
 
+.mt-3 {
+    margin-top: 3px;
+}
+
+.mb-4 {
+    margin-bottom: 4px;
+}
+
 .ml-20 {
     margin-left: 20px;
 }
 
-/*.col-container {*/
-/*display: column; !* Make the container element behave like a table *!*/
-/*width: 100%; !* Set full-width to expand the whole page *!*/
-/*}*/
+.col-container {
+    display: flex;
+    width: 100%;
+}
+.col {
+    flex: 1;
+    padding: 16px;
+}
 
-/*.col {*/
-/*display: table-cell; !* Make elements inside the container behave like table cells *!*/
-/*width: 33.33333333%*/
-/*}*/
+@media only screen and (min-width : 481px) {
+    .row.equal-height {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .row.equal-height > [class*='col-'] {
+        display: flex;
+        flex-direction: column;
+    }
+    .row.equal-height.row:after,
+    .row.equal-height.row:before {
+        display: flex;
+    }
+
+    .row.equal-height > [class*='col-'] > .thumbnail,
+    .row.equal-height > [class*='col-'] > .thumbnail > .caption {
+        display: flex;
+        flex: 1 0 auto;
+        flex-direction: column;
+    }
+    .row.equal-height > [class*='col-'] > .thumbnail > .caption > .flex-text {
+        flex-grow: 1;
+    }
+    .row.equal-height > [class*='col-'] > .thumbnail > img {
+        width: 100%;
+        height: 200px; /* force image's height */
+
+        /* force image fit inside it's "box" */
+        -webkit-object-fit: cover;
+        -moz-object-fit: cover;
+        -ms-object-fit: cover;
+        -o-object-fit: cover;
+        object-fit: cover;
+    }
+}
+
+.middle-mgn {
+    margin-top:-10px;
+}

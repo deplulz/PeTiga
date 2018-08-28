@@ -10,186 +10,206 @@
         </div>
     </div>
 </section>
+
 <section class="blog-two-area ptb-80 campaign-two">
     <div class="container">
         <div class="row">
-            <div class="col-md-9 col-sm-8 fix">
+            <div class="col-md-9 col-sm-8 row equal-height">
 
                 <div class="col-md-4 col-sm-4 mb-30">
-                    <div class="post-thumb">
-                        <a href="#">
-                            <img class="attachment-blog-list"
-                                 src="<?php echo base_url('assets/'); ?>img/blog/berita1.jpg" alt="">
-                        </a>
-                    </div>
-                    <div class="visual-inner">
-                        <div class="home-2-blog">
-                            <h3 class="blog-title">
-                                <a href="#">Lorem Ipsum is simply dummy</a>
-                                <div class="blog-meta">
-                                    <span class="published3">
-                                <i class="fa fa-calendar" aria-hidden="true"></i> 14 May, 2017
-                            </span>
-                                    <span class="published4">
-                                <i class="fa fa-comments-o" aria-hidden="true"></i>
-                                <a href="#"> 03 Comment </a>
-                            </span>
-                                </div>
-                            </h3>
-                            <div class="blog-content">
-                                <p>This year, in this election, we are called to reaffirm our values and our
-                                    commitments, to hold them against a hard reality and see how we are we are called to
-                                    reaffirm our values.......</p>
-                            </div>
+                    <div class="thumbnail">
+                        <div class="post-thumb">
+                            <a href="#">
+                                <img class="attachment-blog-list"
+                                     src="<?php echo base_url('assets/'); ?>img/blog/berita1.jpg" alt="">
+                            </a>
                         </div>
-                    </div>
-                </div>
-
-                <div class="col-md-4 col-sm-4 mb-30">
-                    <div class="post-thumb">
-                        <a href="#">
-                            <img class="attachment-blog-list"
-                                 src="<?php echo base_url('assets/'); ?>img/blog/berita1.jpg" alt="">
-                        </a>
-                    </div>
-                    <div class="visual-inner">
-                        <div class="home-2-blog">
-                            <h3 class="blog-title">
-                                <a href="#">Lorem Ipsum is simply dummy</a>
-                                <div class="blog-meta">
+                        <div class="visual-inner">
+                            <div class="home-2-blog">
+                                <h3 class="blog-title">
+                                    <a href="#">Lorem Ipsum is simply dummy</a>
+                                    <div class="blog-meta">
                                     <span class="published3">
                                 <i class="fa fa-calendar" aria-hidden="true"></i> 14 May, 2017
                             </span>
-                                    <span class="published4">
+                                        <span class="published4">
                                 <i class="fa fa-comments-o" aria-hidden="true"></i>
                                 <a href="#"> 03 Comment </a>
                             </span>
+                                    </div>
+                                </h3>
+                                <div class="blog-content">
+                                    <p>This year, in this election, we are called to reaffirm our values and our
+                                        commitments, to hold them against a hard reality and see how we are we are
+                                        called to
+                                        reaffirm our values.......</p>
                                 </div>
-                            </h3>
-                            <div class="blog-content">
-                                <p>This year, in this election, we are called to reaffirm our values and our
-                                    commitments, to hold them against a hard reality and see how we are we are called to
-                                    reaffirm our values.......</p>
                             </div>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-md-4 col-sm-4 mb-30">
-                    <div class="post-thumb">
-                        <a href="#">
-                            <img class="attachment-blog-list"
-                                 src="<?php echo base_url('assets/'); ?>img/blog/berita1.jpg" alt="">
-                        </a>
-                    </div>
-                    <div class="visual-inner">
-                        <div class="home-2-blog">
-                            <h3 class="blog-title">
-                                <a href="#">Lorem Ipsum is simply dummy</a>
-                                <div class="blog-meta">
+                    <div class="thumbnail">
+                        <div class="post-thumb">
+                            <a href="#">
+                                <img class="attachment-blog-list"
+                                     src="<?php echo base_url('assets/'); ?>img/blog/berita1.jpg" alt="">
+                            </a>
+                        </div>
+                        <div class="visual-inner">
+                            <div class="home-2-blog">
+                                <h3 class="blog-title">
+                                    <a href="#">Lorem Ipsum is simply dummy</a>
+                                    <div class="blog-meta">
                                     <span class="published3">
                                 <i class="fa fa-calendar" aria-hidden="true"></i> 14 May, 2017
                             </span>
-                                    <span class="published4">
+                                        <span class="published4">
                                 <i class="fa fa-comments-o" aria-hidden="true"></i>
                                 <a href="#"> 03 Comment </a>
                             </span>
+                                    </div>
+                                </h3>
+                                <div class="blog-content">
+                                    <p>This year, in this election, we are called to reaffirm our values and our
+                                        commitments, to hold them against a hard reality and see how we are we are
+                                        called to
+                                        reaffirm our values.......</p>
                                 </div>
-                            </h3>
-                            <div class="blog-content">
-                                <p>This year, in this election, we are called to reaffirm our values and our
-                                    commitments, to hold them against a hard reality and see how we are we are called to
-                                    reaffirm our values.......</p>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-md-4 col-sm-4 news-btm">
-                    <div class="post-thumb">
-                        <a href="#">
-                            <img class="attachment-blog-list"
-                                 src="<?php echo base_url('assets/'); ?>img/blog/berita1.jpg" alt="">
-                        </a>
-                    </div>
-                    <div class="visual-inner">
-                        <div class="home-2-blog">
-                            <h3 class="blog-title">
-                                <a href="#">Lorem Ipsum is simply dummy</a>
-                                <div class="blog-meta">
+
+                <div class="col-md-4 col-sm-4 mb-30">
+                    <div class="thumbnail">
+                        <div class="post-thumb">
+                            <a href="#">
+                                <img class="attachment-blog-list"
+                                     src="<?php echo base_url('assets/'); ?>img/blog/berita1.jpg" alt="">
+                            </a>
+                        </div>
+                        <div class="visual-inner">
+                            <div class="home-2-blog">
+                                <h3 class="blog-title">
+                                    <a href="#">Lorem Ipsum is simply dummy</a>
+                                    <div class="blog-meta">
                                     <span class="published3">
                                 <i class="fa fa-calendar" aria-hidden="true"></i> 14 May, 2017
                             </span>
-                                    <span class="published4">
+                                        <span class="published4">
                                 <i class="fa fa-comments-o" aria-hidden="true"></i>
                                 <a href="#"> 03 Comment </a>
                             </span>
+                                    </div>
+                                </h3>
+                                <div class="blog-content">
+                                    <p>This year, in this election, we are called to reaffirm our values and our
+                                        commitments, to hold them against a hard reality and see how we are we are
+                                        called to
+                                        reaffirm our values.......</p>
                                 </div>
-                            </h3>
-                            <div class="blog-content">
-                                <p>This year, in this election, we are called to reaffirm our values and our
-                                    commitments, to hold them against a hard reality and see how we are we are called to
-                                    reaffirm our values.......</p>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-md-4 col-sm-4 news-btm">
-                    <div class="post-thumb">
-                        <a href="#">
-                            <img class="attachment-blog-list"
-                                 src="<?php echo base_url('assets/'); ?>img/blog/berita1.jpg" alt="">
-                        </a>
-                    </div>
-                    <div class="visual-inner">
-                        <div class="home-2-blog">
-                            <h3 class="blog-title">
-                                <a href="#">Lorem Ipsum is simply dummy</a>
-                                <div class="blog-meta">
+                <div class="col-md-4 col-sm-4 mb-30 news-btm">
+                    <div class="thumbnail">
+                        <div class="post-thumb">
+                            <a href="#">
+                                <img class="attachment-blog-list"
+                                     src="<?php echo base_url('assets/'); ?>img/blog/berita1.jpg" alt="">
+                            </a>
+                        </div>
+                        <div class="visual-inner">
+                            <div class="home-2-blog">
+                                <h3 class="blog-title">
+                                    <a href="#">Lorem Ipsum is simply dummy</a>
+                                    <div class="blog-meta">
                                     <span class="published3">
                                 <i class="fa fa-calendar" aria-hidden="true"></i> 14 May, 2017
                             </span>
-                                    <span class="published4">
+                                        <span class="published4">
                                 <i class="fa fa-comments-o" aria-hidden="true"></i>
                                 <a href="#"> 03 Comment </a>
                             </span>
+                                    </div>
+                                </h3>
+                                <div class="blog-content">
+                                    <p>This year, in this election, we are called to reaffirm our values and our
+                                        commitments, to hold them against a hard reality and see how we are we are
+                                        called to
+                                        reaffirm our values.......</p>
                                 </div>
-                            </h3>
-                            <div class="blog-content">
-                                <p>This year, in this election, we are called to reaffirm our values and our
-                                    commitments, to hold them against a hard reality and see how we are we are called to
-                                    reaffirm our values.......</p>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-md-4 col-sm-4 news-btm">
-                    <div class="post-thumb">
-                        <a href="#">
-                            <img class="attachment-blog-list"
-                                 src="<?php echo base_url('assets/'); ?>img/blog/berita1.jpg" alt="">
-                        </a>
-                    </div>
-                    <div class="visual-inner">
-                        <div class="home-2-blog">
-                            <h3 class="blog-title">
-                                <a href="#">Lorem Ipsum is simply dummy</a>
-                                <div class="blog-meta">
+                <div class="col-md-4 col-sm-4 mb-30 news-btm">
+                    <div class="thumbnail">
+                        <div class="post-thumb">
+                            <a href="#">
+                                <img class="attachment-blog-list"
+                                     src="<?php echo base_url('assets/'); ?>img/blog/berita1.jpg" alt="">
+                            </a>
+                        </div>
+                        <div class="visual-inner">
+                            <div class="home-2-blog">
+                                <h3 class="blog-title">
+                                    <a href="#">Lorem Ipsum is simply dummy</a>
+                                    <div class="blog-meta">
                                     <span class="published3">
                                 <i class="fa fa-calendar" aria-hidden="true"></i> 14 May, 2017
                             </span>
-                                    <span class="published4">
+                                        <span class="published4">
                                 <i class="fa fa-comments-o" aria-hidden="true"></i>
                                 <a href="#"> 03 Comment </a>
                             </span>
+                                    </div>
+                                </h3>
+                                <div class="blog-content">
+                                    <p>This year, in this election, we are called to reaffirm our values and our
+                                        commitments, to hold them against a hard reality and see how we are we are
+                                        called to
+                                        reaffirm our values.......</p>
                                 </div>
-                            </h3>
-                            <div class="blog-content">
-                                <p>This year, in this election, we are called to reaffirm our values and our
-                                    commitments, to hold them against a hard reality and see how we are we are called to
-                                    reaffirm our values.......</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-4 mb-30 news-btm">
+                    <div class="thumbnail">
+                        <div class="post-thumb">
+                            <a href="#">
+                                <img class="attachment-blog-list"
+                                     src="<?php echo base_url('assets/'); ?>img/blog/berita1.jpg" alt="">
+                            </a>
+                        </div>
+                        <div class="visual-inner">
+                            <div class="home-2-blog">
+                                <h3 class="blog-title">
+                                    <a href="#">Lorem Ipsum is simply dummy</a>
+                                    <div class="blog-meta">
+                                    <span class="published3">
+                                <i class="fa fa-calendar" aria-hidden="true"></i> 14 May, 2017
+                            </span>
+                                        <span class="published4">
+                                <i class="fa fa-comments-o" aria-hidden="true"></i>
+                                <a href="#"> 03 Comment </a>
+                            </span>
+                                    </div>
+                                </h3>
+                                <div class="blog-content">
+                                    <p>This year, in this election, we are called to reaffirm our values and our
+                                        commitments, to hold them against a hard reality and see how we are we are
+                                        called to
+                                        reaffirm our values.......</p>
+                                </div>
                             </div>
                         </div>
                     </div>

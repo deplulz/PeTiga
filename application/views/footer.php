@@ -1,5 +1,5 @@
 <footer id="footer" class="social-area">
-    <div class="footer-middle ptb-80">
+    <div class="footer-middle pt-65 pb-20">
         <div class="container">
             <div class="row">
                 <div class="col-md-5 col-sm-4">
@@ -43,7 +43,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 col-sm-4">
+                <div class="col-md-3 col-sm-4 ">
                     <div class="middle-text res-1">
 <!--                            <h3>-->
 <!--                                <i class="fa fa-twitter" aria-hidden="true"> Twitter-->
