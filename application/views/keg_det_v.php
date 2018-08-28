@@ -18,7 +18,7 @@
             <div class="row">
                 <div class="col-md-8">
                     <div class="TPos LUT">Judul</div>
-                    <div class="LUT fa fa-clock-o"> <?php echo date('d.m.Y');?></div>
+                    <div class="LUT fa fa-clock-o"> <?php echo tgl(date('d-M-Y'));?></div>
                     <div class="LUB fa fa-user-md"> <?php echo strtoupper('paijo')?></div>
                     <div class="LUB fa fa-eye"> <?php echo '12310';?></div>
                 </div>

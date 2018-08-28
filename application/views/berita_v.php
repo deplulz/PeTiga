@@ -30,7 +30,7 @@
                                     <a href="#">Lorem Ipsum is simply dummy</a>
                                     <div class="blog-meta">
                                     <span class="published3">
-                                <i class="fa fa-calendar" aria-hidden="true"></i> 14 May, 2017
+                                <i class="fa fa-calendar" aria-hidden="true"></i> <?php echo tgl(date('d-M-Y'));?>
                             </span>
                                         <span class="published4">
                                 <i class="fa fa-comments-o" aria-hidden="true"></i>
@@ -63,7 +63,7 @@
                                     <a href="#">Lorem Ipsum is simply dummy</a>
                                     <div class="blog-meta">
                                     <span class="published3">
-                                <i class="fa fa-calendar" aria-hidden="true"></i> 14 May, 2017
+                                <i class="fa fa-calendar" aria-hidden="true"></i> <?php echo tgl(date('d-M-Y'));?>
                             </span>
                                         <span class="published4">
                                 <i class="fa fa-comments-o" aria-hidden="true"></i>
@@ -97,7 +97,7 @@
                                     <a href="#">Lorem Ipsum is simply dummy</a>
                                     <div class="blog-meta">
                                     <span class="published3">
-                                <i class="fa fa-calendar" aria-hidden="true"></i> 14 May, 2017
+                                <i class="fa fa-calendar" aria-hidden="true"></i> <?php echo tgl(date('d-M-Y'));?>
                             </span>
                                         <span class="published4">
                                 <i class="fa fa-comments-o" aria-hidden="true"></i>
@@ -130,7 +130,7 @@
                                     <a href="#">Lorem Ipsum is simply dummy</a>
                                     <div class="blog-meta">
                                     <span class="published3">
-                                <i class="fa fa-calendar" aria-hidden="true"></i> 14 May, 2017
+                                <i class="fa fa-calendar" aria-hidden="true"></i> <?php echo tgl(date('d-M-Y'));?>
                             </span>
                                         <span class="published4">
                                 <i class="fa fa-comments-o" aria-hidden="true"></i>
@@ -163,7 +163,7 @@
                                     <a href="#">Lorem Ipsum is simply dummy</a>
                                     <div class="blog-meta">
                                     <span class="published3">
-                                <i class="fa fa-calendar" aria-hidden="true"></i> 14 May, 2017
+                                <i class="fa fa-calendar" aria-hidden="true"></i> <?php echo tgl(date('d-M-Y'));?>
                             </span>
                                         <span class="published4">
                                 <i class="fa fa-comments-o" aria-hidden="true"></i>
@@ -196,7 +196,7 @@
                                     <a href="#">Lorem Ipsum is simply dummy</a>
                                     <div class="blog-meta">
                                     <span class="published3">
-                                <i class="fa fa-calendar" aria-hidden="true"></i> 14 May, 2017
+                                <i class="fa fa-calendar" aria-hidden="true"></i> <?php echo tgl(date('d-M-Y'));?>
                             </span>
                                         <span class="published4">
                                 <i class="fa fa-comments-o" aria-hidden="true"></i>

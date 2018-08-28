@@ -467,6 +467,18 @@
 /* Tablet desktop :768px. */
 
 @media (min-width: 768px) and (max-width: 991px) {
+    .styler-res {
+        /*border: 1px solid #999;*/
+        margin-top: 5px;
+    }
+
+    .title-text-res {
+        text-align: center;
+        font-size: 35px;
+        margin-top: 117px;
+        display: block;
+    }
+
     .main-menu {
         display: none;
     }
@@ -1005,6 +1017,18 @@
 /* small mobile :320px. */
 
 @media (max-width: 767px) {
+    .styler-res {
+        /*border: 1px solid #999;*/
+        margin-top: 5px;
+    }
+
+    .title-text-res {
+        text-align: left;
+        font-size: 35px;
+        margin-top: 100px;
+        display: block;
+    }
+
     .LUTR {
         margin-left: -5%;
         font-weight: bold;
@@ -2174,5 +2198,4 @@
     .hide {
         visibility: hidden;
     }
-
 }

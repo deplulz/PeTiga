@@ -28,7 +28,7 @@
                                                 <?php echo 'Kegiatan 1';?>
                                             </a>
                                         </h3>
-                                        <span class="fa fa-calendar"> <?php echo date('d.M.y');?> </span>
+                                        <span class="fa fa-calendar"> <?php echo tgl(date('d-M-Y'));?> </span>
                                         <span class="fa fa-comment" style="float: right">
                                             <a href="#"> 02 comment</a>
                                         </span>
@@ -50,7 +50,7 @@
                                                 <?php echo 'Kegiatan 2';?>
                                             </a>
                                         </h3>
-                                        <span class="fa fa-calendar"> <?php echo date('d.M.y');?> </span>
+                                        <span class="fa fa-calendar"> <?php echo tgl(date('d-M-Y'));?> </span>
                                         <span class="fa fa-comment" style="float: right">
                                             <a href="#"> 02 comment</a>
                                         </span>
@@ -72,7 +72,7 @@
                                                 <?php echo 'Kegiatan 3';?>
                                             </a>
                                         </h3>
-                                        <span class="fa fa-calendar"> <?php echo date('d.M.y');?> </span>
+                                        <span class="fa fa-calendar"> <?php echo tgl(date('d-M-Y'));?> </span>
                                         <span class="fa fa-comment" style="float: right">
                                             <a href="#"> 02 comment</a>
                                         </span>
@@ -94,7 +94,7 @@
                                                 <?php echo 'Kegiatan 4';?>
                                             </a>
                                         </h3>
-                                        <span class="fa fa-calendar"> <?php echo date('d.M.y');?> </span>
+                                        <span class="fa fa-calendar"> <?php echo tgl(date('d-M-Y'));?> </span>
                                         <span class="fa fa-comment" style="float: right">
                                             <a href="#"> 02 comment</a>
                                         </span>
@@ -116,7 +116,7 @@
                                                 <?php echo 'Kegiatan 5';?>
                                             </a>
                                         </h3>
-                                        <span class="fa fa-calendar"> <?php echo date('d.M.y');?> </span>
+                                        <span class="fa fa-calendar"> <?php echo tgl(date('d-M-Y'));?> </span>
                                         <span class="fa fa-comment" style="float: right">
                                             <a href="#"> 02 comment</a>
                                         </span>
@@ -138,7 +138,7 @@
                                                 <?php echo 'Kegiatan 6';?>
                                             </a>
                                         </h3>
-                                        <span class="fa fa-calendar"> <?php echo date('d.M.y');?> </span>
+                                        <span class="fa fa-calendar"> <?php echo tgl(date('d-M-Y'));?> </span>
                                         <span class="fa fa-comment" style="float: right">
                                             <a href="#"> 02 comment</a>
                                         </span>

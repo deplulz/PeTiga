@@ -5321,7 +5321,7 @@ iframe .twitter-tweet p.Tweet-text {
 }
 
 .berita-text {
-    min-height: 500px;
+    min-height: 700px;
     text-align: justify;
     font-size: 15px;
     bottom: 5px;
@@ -5333,6 +5333,23 @@ iframe .twitter-tweet p.Tweet-text {
 
 .mb-4 {
     margin-bottom: 4px;
+}
+
+.mb-5 {
+    margin-bottom: 5px;
+}
+
+.mb-10 {
+    margin-bottom: 10px;
+}
+
+.ml-min-15 {
+    margin-left: -15px;
+}
+
+.styler {
+    /*border: 1px solid #999;*/
+    margin-top: -28px;
 }
 
 .ml-20 {
